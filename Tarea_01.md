@@ -1,0 +1,18 @@
+# Análisis de una webstory: "Male Falsetto"
+
+¿Están los artistas masculinos cantando cada vez más alto en el género pop? "Male falsetto" es una webstory basada en datos, publicada en el medio *The Pudding*, que busca responder esta pregunta.
+
+La metodología del estudio es simple. Se seleccionaron todas las canciones de artistas masculinos que entraron al ranking de Billboard durante el año actual, se evaluó el registro de cada una y se elaboró una escala del 1 al 10 para promediar todas las canciones del año en base a qué tan alto es su registro vocal. Luego, se comparó el puntaje del año actual históricamente con los últimos sesenta años. 
+Los resultados mostraron una tendencia clara: el registro vocal de las canciones pop en hombres ha ido, de hecho, descendiendo desde los 80s a principio de los 90s, donde tomó lugar el peak de canciones con registro vocal alto (1988). 
+
+Parecía ser, entonces, que la hipótesis de que con cada año las canciones masculinas en el pop iban subiendo en registro vocal quedaba refutada. Sin embargo, el equipo de The Pudding decidió cambiar de método: ahora tomarían en cuenta sólo los mayores hits de cada año; los exitazos indiscutibles que dominaron el top 5 de Billboard. Al hacer esto, descubrieron que, efectivamente, en el año del estudio (2018) se encuentran los éxitos masculinos con el más alto registro vocal de los últimos sesenta años.
+
+A mí me llamó mucho la atención esta webstory porque me encanta la música, el pop, y me gustaría dedicarme a algo relacionado a esta; tal vez en marketing musical o en comunicaciones corporativas de algún sello. Algo que rescato mucho de The Pudding es su economía lingüística; cómo reducen al máximo la extensión de sus textos, priorizando títulos atractivos y breves párrafos explicativos, y dejando que las imágenes y los datos graficados hablen por sí solos. Esta webstory no es la excepción. Tiene un diseño de experiencia de usuario basado en slides muy bien planteado y ejecutado; incluye la música de la que hablamos, una interfaz muy amigable y fácil de navegar, incluye gráficos propios de un estudio longitudinal muy bien ejecutados y fáciles de leer y presenta de manera concisa, divertida y amigable los resultados de un extenso proceso de estudio y manejo de datos. 
+
+No tengo una crítica a la metodología empleada, pero si me hubiera gustado un slide explicando mejor los criterios y parámetros que definieron para puntuar una canción y un año de canciones promediadas del 1 al 10. ¿De qué dependía ese puntaje? Como sé algo de música, imagino que se definieron las octavas consideradas más altas para el registro vocal masculino y se clasificaron las canciones de acuerdo a si entraban en esas octavas o no, tal vez contando la cantidad de notas altas por cancion, pero me hubiera encantado tener claridad sobre el método exacto utilizado.
+
+Y, entrando ya en mayor detalle, no creo que la tesis que presenta la webstory, que apunta a la tendencia en hombres de cantar más agudo, se pueda comprobar con el último gráfico, porque este no muestra tendencias claras y parece ser que el año del estudio, siendo el peak del registro vocal, constituye un caso excepcional y aislado, no una tendencia sostenida.
+
+Más allá de esto, encuentro que es una pieza destacada y de la que vale la pena tomar inspiración por su atractivo, brevedad y fácil lectura, sin perder el rigor que caracteriza al manejo de datos que realiza The Pudding.
+
+Enlace: https://pudding.cool/2019/08/register/
